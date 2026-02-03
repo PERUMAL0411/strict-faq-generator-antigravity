@@ -1,0 +1,1 @@
+# strict-faq-generator-antigravity
