@@ -90,6 +90,5 @@ Mock data is used for offline testing and project demonstration when no API key 
 - Export FAQs as JSON or PDF
 
 ---
+*
 
-## Author
-**Perumal**
